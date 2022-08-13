@@ -1,0 +1,22 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode
+
+# Test binary, built with `go test -c`
+*.test
+node_modules
+
+secret.md
+.secret.env
+
+demo-api.toml
+demo-api
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+*.o
+node_modules
